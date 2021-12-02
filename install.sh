@@ -24,4 +24,4 @@ then
 else
         echo "Usage: ./install username password"
 fi
-~
+
